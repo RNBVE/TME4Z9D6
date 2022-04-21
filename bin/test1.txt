@@ -1,0 +1,2 @@
+Event=ThermostatNight,time=1000
+Event=LightOn,time=2000
